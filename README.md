@@ -1,4 +1,4 @@
-# Geeks-Advice
+# INET E RESOURCE NOT FOUND
 most comon fixes
 For Windows users, INET E RESOURCE NOT FOUND is a typical occurrence. On a Windows 10 computer, this issue often appears when you attempt to view a website. Any online browser may get the problem, however Microsoft Edge users often see it more frequently.
 
